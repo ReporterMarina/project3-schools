@@ -1,0 +1,557 @@
+"DIST_NAME","SCH_NAME","GROUP_LABEL","OFFENSE_LABEL","ARREST_NUMER","ARREST_PCT"
+"Agawam","Agawam Junior High","All Students","All Offenses",1,0.2
+"Agawam","Agawam Junior High","All Students","Physical attack (battery)",1,0.2
+"Agawam","Agawam Junior High","Low income","All Offenses",1,0.4
+"Agawam","Agawam Junior High","High needs","All Offenses",1,0.3
+"Agawam","Agawam Junior High","Male","All Offenses",1,0.3
+"Agawam","Agawam Junior High","Hispanic/Latino","All Offenses",1,1.1
+"Boston","Dearborn 6-12 STEM Academy","All Students","All Offenses",2,0.3
+"Boston","Dearborn 6-12 STEM Academy","All Students","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Boston","Dearborn 6-12 STEM Academy","All Students","Weapon on school premises",2,0.3
+"Boston","Dearborn 6-12 STEM Academy","English Learner","All Offenses",1,0.5
+"Boston","Dearborn 6-12 STEM Academy","English Learner","Non-drug, non-violent or non-criminal-related offense",1,0.5
+"Boston","Dearborn 6-12 STEM Academy","Low income","All Offenses",1,0.2
+"Boston","Dearborn 6-12 STEM Academy","Low income","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Boston","Dearborn 6-12 STEM Academy","Students w/disabilities","All Offenses",1,0.8
+"Boston","Dearborn 6-12 STEM Academy","High needs","All Offenses",2,0.3
+"Boston","Dearborn 6-12 STEM Academy","High needs","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Boston","Dearborn 6-12 STEM Academy","Male","All Offenses",2,0.6
+"Boston","Dearborn 6-12 STEM Academy","Male","Non-drug, non-violent or non-criminal-related offense",1,0.3
+"Boston","Dearborn 6-12 STEM Academy","Male","Weapon on school premises",2,0.6
+"Boston","Dearborn 6-12 STEM Academy","Afr. Amer./Black","All Offenses",1,0.3
+"Boston","Dearborn 6-12 STEM Academy","Afr. Amer./Black","Non-drug, non-violent or non-criminal-related offense",1,0.3
+"Boston","Dearborn 6-12 STEM Academy","Hispanic/Latino","All Offenses",1,0.5
+"Boston","Henderson K-12 Inclusion School Upper","All Students","All Offenses",1,0.1
+"Boston","Henderson K-12 Inclusion School Upper","All Students","Non-drug, non-violent or non-criminal-related offense",1,0.1
+"Boston","Henderson K-12 Inclusion School Upper","All Students","Physical attack (battery)",1,0.1
+"Boston","Henderson K-12 Inclusion School Upper","Low income","All Offenses",1,0.2
+"Boston","Henderson K-12 Inclusion School Upper","Low income","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Boston","Henderson K-12 Inclusion School Upper","Low income","Physical attack (battery)",1,0.2
+"Boston","Henderson K-12 Inclusion School Upper","High needs","All Offenses",1,0.1
+"Boston","Henderson K-12 Inclusion School Upper","High needs","Non-drug, non-violent or non-criminal-related offense",1,0.1
+"Boston","Henderson K-12 Inclusion School Upper","High needs","Physical attack (battery)",1,0.1
+"Boston","Henderson K-12 Inclusion School Upper","Female","All Offenses",1,0.3
+"Boston","Henderson K-12 Inclusion School Upper","Female","Non-drug, non-violent or non-criminal-related offense",1,0.3
+"Boston","Henderson K-12 Inclusion School Upper","Female","Physical attack (battery)",1,0.3
+"Boston","Henderson K-12 Inclusion School Upper","Afr. Amer./Black","All Offenses",1,0.3
+"Boston","Henderson K-12 Inclusion School Upper","Afr. Amer./Black","Non-drug, non-violent or non-criminal-related offense",1,0.3
+"Boston","Henderson K-12 Inclusion School Upper","Afr. Amer./Black","Physical attack (battery)",1,0.3
+"Boston","Charlestown High School","All Students","All Offenses",3,0.3
+"Boston","Charlestown High School","All Students","Weapon on school premises",2,0.2
+"Boston","Charlestown High School","Low income","All Offenses",2,0.2
+"Boston","Charlestown High School","Low income","Weapon on school premises",1,0.1
+"Boston","Charlestown High School","High needs","All Offenses",2,0.2
+"Boston","Charlestown High School","High needs","Weapon on school premises",1,0.1
+"Boston","Charlestown High School","Male","All Offenses",3,0.6
+"Boston","Charlestown High School","Afr. Amer./Black","All Offenses",2,0.8
+"Boston","Charlestown High School","Hispanic/Latino","All Offenses",1,0.2
+"Boston","Madison Park Technical Vocational High School","All Students","All Offenses",2,0.2
+"Boston","Madison Park Technical Vocational High School","All Students","Non-drug, non-violent or non-criminal-related offense",1,0.1
+"Boston","Madison Park Technical Vocational High School","Low income","All Offenses",2,0.2
+"Boston","Madison Park Technical Vocational High School","Low income","Non-drug, non-violent or non-criminal-related offense",1,0.1
+"Boston","Madison Park Technical Vocational High School","Students w/disabilities","All Offenses",2,0.4
+"Boston","Madison Park Technical Vocational High School","Students w/disabilities","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Boston","Madison Park Technical Vocational High School","High needs","All Offenses",2,0.2
+"Boston","Madison Park Technical Vocational High School","High needs","Non-drug, non-violent or non-criminal-related offense",1,0.1
+"Boston","Madison Park Technical Vocational High School","Male","All Offenses",2,0.3
+"Boston","Madison Park Technical Vocational High School","Male","Non-drug, non-violent or non-criminal-related offense",1,0.1
+"Boston","Madison Park Technical Vocational High School","Afr. Amer./Black","All Offenses",2,0.4
+"Boston","Madison Park Technical Vocational High School","Afr. Amer./Black","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Boston","Another Course To College","All Students","All Offenses",1,0.4
+"Boston","Another Course To College","Low income","All Offenses",1,0.5
+"Boston","Another Course To College","High needs","All Offenses",1,0.4
+"Boston","Another Course To College","Female","All Offenses",1,0.9
+"Boston","Another Course To College","Afr. Amer./Black","All Offenses",1,0.7
+"Boston","Community Academy of Science and Health","All Students","All Offenses",1,0.3
+"Boston","Community Academy of Science and Health","All Students","Illegal substances",1,0.3
+"Boston","Community Academy of Science and Health","Low income","All Offenses",1,0.3
+"Boston","Community Academy of Science and Health","Low income","Illegal substances",1,0.3
+"Boston","Community Academy of Science and Health","Students w/disabilities","All Offenses",1,0.6
+"Boston","Community Academy of Science and Health","High needs","All Offenses",1,0.3
+"Boston","Community Academy of Science and Health","High needs","Illegal substances",1,0.3
+"Boston","Community Academy of Science and Health","Male","All Offenses",1,0.5
+"Boston","Community Academy of Science and Health","Afr. Amer./Black","All Offenses",1,0.5
+"Bourne","Bourne High School","All Students","All Offenses",1,0.2
+"Bourne","Bourne High School","Low income","All Offenses",1,0.6
+"Bourne","Bourne High School","High needs","All Offenses",1,0.5
+"Bourne","Bourne High School","Male","All Offenses",1,0.5
+"Bourne","Bourne High School","White","All Offenses",1,0.3
+"Brockton","Brockton High","All Students","All Offenses",1,0
+"Brockton","Brockton High","All Students","Weapon on school premises",1,0
+"Brockton","Brockton High","Male","All Offenses",1,0
+"Brockton","Brockton High","Male","Weapon on school premises",1,0
+"Brockton","Brockton High","White","All Offenses",1,0.2
+"Chicopee","Chicopee High","All Students","All Offenses",1,0.1
+"Chicopee","Chicopee High","All Students","Non-drug, non-violent or non-criminal-related offense",1,0.1
+"Chicopee","Chicopee High","All Students","Physical attack (battery)",1,0.1
+"Chicopee","Chicopee High","Low income","All Offenses",1,0.1
+"Chicopee","Chicopee High","Low income","Non-drug, non-violent or non-criminal-related offense",1,0.1
+"Chicopee","Chicopee High","Low income","Physical attack (battery)",1,0.1
+"Chicopee","Chicopee High","High needs","All Offenses",1,0.1
+"Chicopee","Chicopee High","High needs","Non-drug, non-violent or non-criminal-related offense",1,0.1
+"Chicopee","Chicopee High","High needs","Physical attack (battery)",1,0.1
+"Chicopee","Chicopee High","Female","All Offenses",1,0.2
+"Chicopee","Chicopee High","Female","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Chicopee","Chicopee High","Female","Physical attack (battery)",1,0.2
+"Chicopee","Chicopee High","Hispanic/Latino","All Offenses",1,0.2
+"Chicopee","Chicopee High","Hispanic/Latino","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Chicopee","Chicopee High","Hispanic/Latino","Physical attack (battery)",1,0.2
+"Granby","Granby Jr Sr High School","All Students","All Offenses",1,0.3
+"Granby","Granby Jr Sr High School","Male","All Offenses",1,0.6
+"Granby","Granby Jr Sr High School","White","All Offenses",1,0.4
+"Greenfield","Greenfield High","All Students","All Offenses",2,0.4
+"Greenfield","Greenfield High","All Students","Non-drug, non-violent or non-criminal-related offense",2,0.4
+"Greenfield","Greenfield High","English Learner","All Offenses",1,4
+"Greenfield","Greenfield High","English Learner","Non-drug, non-violent or non-criminal-related offense",1,4
+"Greenfield","Greenfield High","Low income","All Offenses",2,0.6
+"Greenfield","Greenfield High","Low income","Non-drug, non-violent or non-criminal-related offense",2,0.6
+"Greenfield","Greenfield High","Students w/disabilities","All Offenses",1,0.9
+"Greenfield","Greenfield High","Students w/disabilities","Non-drug, non-violent or non-criminal-related offense",1,0.9
+"Greenfield","Greenfield High","High needs","All Offenses",2,0.5
+"Greenfield","Greenfield High","High needs","Non-drug, non-violent or non-criminal-related offense",2,0.5
+"Greenfield","Greenfield High","Female","All Offenses",1,0.4
+"Greenfield","Greenfield High","Female","Non-drug, non-violent or non-criminal-related offense",1,0.4
+"Greenfield","Greenfield High","Male","All Offenses",1,0.4
+"Greenfield","Greenfield High","Male","Non-drug, non-violent or non-criminal-related offense",1,0.4
+"Greenfield","Greenfield High","Hispanic/Latino","All Offenses",1,0.9
+"Greenfield","Greenfield High","Hispanic/Latino","Non-drug, non-violent or non-criminal-related offense",1,0.9
+"Haverhill","Caleb Dustin Hunking School","All Students","All Offenses",1,0.1
+"Haverhill","Caleb Dustin Hunking School","All Students","Physical attack (battery)",1,0.1
+"Haverhill","Caleb Dustin Hunking School","Low income","All Offenses",1,0.2
+"Haverhill","Caleb Dustin Hunking School","Students w/disabilities","All Offenses",1,0.4
+"Haverhill","Caleb Dustin Hunking School","Students w/disabilities","Physical attack (battery)",1,0.4
+"Haverhill","Caleb Dustin Hunking School","High needs","All Offenses",1,0.1
+"Haverhill","Caleb Dustin Hunking School","High needs","Physical attack (battery)",1,0.1
+"Haverhill","Caleb Dustin Hunking School","Male","All Offenses",1,0.2
+"Haverhill","Caleb Dustin Hunking School","White","All Offenses",1,0.1
+"Haverhill","Consentino Middle School","All Students","All Offenses",1,0.1
+"Haverhill","Consentino Middle School","All Students","Non-drug, non-violent or non-criminal-related offense",1,0.1
+"Haverhill","Consentino Middle School","All Students","Physical attack (battery)",1,0.1
+"Haverhill","Consentino Middle School","All Students","Threat of physical attack",1,0.1
+"Haverhill","Consentino Middle School","Low income","All Offenses",1,0.2
+"Haverhill","Consentino Middle School","Low income","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Haverhill","Consentino Middle School","Low income","Physical attack (battery)",1,0.2
+"Haverhill","Consentino Middle School","Low income","Threat of physical attack",1,0.2
+"Haverhill","Consentino Middle School","High needs","All Offenses",1,0.2
+"Haverhill","Consentino Middle School","High needs","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Haverhill","Consentino Middle School","High needs","Physical attack (battery)",1,0.2
+"Haverhill","Consentino Middle School","High needs","Threat of physical attack",1,0.2
+"Haverhill","Consentino Middle School","Male","All Offenses",1,0.2
+"Haverhill","Consentino Middle School","Male","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Haverhill","Consentino Middle School","Male","Physical attack (battery)",1,0.2
+"Haverhill","Consentino Middle School","Male","Threat of physical attack",1,0.2
+"Haverhill","Consentino Middle School","White","All Offenses",1,0.4
+"Haverhill","Consentino Middle School","White","Non-drug, non-violent or non-criminal-related offense",1,0.4
+"Haverhill","Consentino Middle School","White","Physical attack (battery)",1,0.4
+"Haverhill","Haverhill High","All Students","All Offenses",1,0
+"Haverhill","Haverhill High","All Students","Physical fight ",1,0
+"Haverhill","Haverhill High","All Students","Weapon on school premises",1,0
+"Haverhill","Haverhill High","Students w/disabilities","All Offenses",1,0.2
+"Haverhill","Haverhill High","Students w/disabilities","Physical fight ",1,0.2
+"Haverhill","Haverhill High","Students w/disabilities","Weapon on school premises",1,0.2
+"Haverhill","Haverhill High","High needs","All Offenses",1,0.1
+"Haverhill","Haverhill High","High needs","Physical fight ",1,0.1
+"Haverhill","Haverhill High","High needs","Weapon on school premises",1,0.1
+"Haverhill","Haverhill High","Female","All Offenses",1,0.1
+"Haverhill","Haverhill High","Female","Physical fight ",1,0.1
+"Haverhill","Haverhill High","Female","Weapon on school premises",1,0.1
+"Haverhill","Haverhill High","White","All Offenses",1,0.1
+"Haverhill","Haverhill High","White","Physical fight ",1,0.1
+"Haverhill","Haverhill High","White","Weapon on school premises",1,0.1
+"Holyoke","Holyoke High","All Students","All Offenses",5,0.3
+"Holyoke","Holyoke High","All Students","Non-drug, non-violent or non-criminal-related offense",4,0.3
+"Holyoke","Holyoke High","All Students","Other violence or substance-related offense",1,0.1
+"Holyoke","Holyoke High","All Students","Physical attack (battery)",1,0.1
+"Holyoke","Holyoke High","All Students","Threat of physical attack",3,0.2
+"Holyoke","Holyoke High","All Students","Weapon on school premises",2,0.1
+"Holyoke","Holyoke High","Low income","All Offenses",3,0.2
+"Holyoke","Holyoke High","Low income","Non-drug, non-violent or non-criminal-related offense",3,0.2
+"Holyoke","Holyoke High","Low income","Other violence or substance-related offense",1,0.1
+"Holyoke","Holyoke High","Low income","Physical attack (battery)",1,0.1
+"Holyoke","Holyoke High","Low income","Threat of physical attack",2,0.1
+"Holyoke","Holyoke High","Low income","Weapon on school premises",1,0.1
+"Holyoke","Holyoke High","Students w/disabilities","All Offenses",2,0.5
+"Holyoke","Holyoke High","Students w/disabilities","Non-drug, non-violent or non-criminal-related offense",2,0.5
+"Holyoke","Holyoke High","Students w/disabilities","Threat of physical attack",2,0.5
+"Holyoke","Holyoke High","High needs","All Offenses",4,0.3
+"Holyoke","Holyoke High","High needs","Non-drug, non-violent or non-criminal-related offense",4,0.3
+"Holyoke","Holyoke High","High needs","Other violence or substance-related offense",1,0.1
+"Holyoke","Holyoke High","High needs","Physical attack (battery)",1,0.1
+"Holyoke","Holyoke High","High needs","Threat of physical attack",3,0.2
+"Holyoke","Holyoke High","High needs","Weapon on school premises",1,0.1
+"Holyoke","Holyoke High","Male","All Offenses",5,0.6
+"Holyoke","Holyoke High","Male","Non-drug, non-violent or non-criminal-related offense",4,0.5
+"Holyoke","Holyoke High","Male","Other violence or substance-related offense",1,0.1
+"Holyoke","Holyoke High","Male","Physical attack (battery)",1,0.1
+"Holyoke","Holyoke High","Male","Threat of physical attack",3,0.4
+"Holyoke","Holyoke High","Male","Weapon on school premises",2,0.2
+"Holyoke","Holyoke High","Hispanic/Latino","All Offenses",4,0.3
+"Holyoke","Holyoke High","Hispanic/Latino","Non-drug, non-violent or non-criminal-related offense",4,0.3
+"Holyoke","Holyoke High","Hispanic/Latino","Other violence or substance-related offense",1,0.1
+"Holyoke","Holyoke High","Hispanic/Latino","Physical attack (battery)",1,0.1
+"Holyoke","Holyoke High","Hispanic/Latino","Threat of physical attack",3,0.2
+"Holyoke","Holyoke High","Hispanic/Latino","Weapon on school premises",1,0.1
+"Holyoke","Holyoke High","White","All Offenses",1,0.4
+"Lawrence","Lawrence High School","All Students","All Offenses",5,0.1
+"Lawrence","Lawrence High School","All Students","Illegal substances",1,0
+"Lawrence","Lawrence High School","All Students","Physical attack (battery)",4,0.1
+"Lawrence","Lawrence High School","All Students","Physical fight ",1,0
+"Lawrence","Lawrence High School","English Learner","All Offenses",1,0.1
+"Lawrence","Lawrence High School","English Learner","Physical fight ",1,0.1
+"Lawrence","Lawrence High School","Low income","All Offenses",5,0.2
+"Lawrence","Lawrence High School","Low income","Illegal substances",1,0
+"Lawrence","Lawrence High School","Low income","Physical attack (battery)",4,0.1
+"Lawrence","Lawrence High School","Low income","Physical fight ",1,0
+"Lawrence","Lawrence High School","Students w/disabilities","All Offenses",3,0.6
+"Lawrence","Lawrence High School","Students w/disabilities","Physical attack (battery)",2,0.4
+"Lawrence","Lawrence High School","Students w/disabilities","Physical fight ",1,0.2
+"Lawrence","Lawrence High School","High needs","All Offenses",5,0.2
+"Lawrence","Lawrence High School","High needs","Illegal substances",1,0
+"Lawrence","Lawrence High School","High needs","Physical attack (battery)",4,0.1
+"Lawrence","Lawrence High School","High needs","Physical fight ",1,0
+"Lawrence","Lawrence High School","Female","All Offenses",2,0.1
+"Lawrence","Lawrence High School","Female","Illegal substances",1,0.1
+"Lawrence","Lawrence High School","Female","Physical attack (battery)",2,0.1
+"Lawrence","Lawrence High School","Male","All Offenses",3,0.2
+"Lawrence","Lawrence High School","Male","Physical attack (battery)",2,0.1
+"Lawrence","Lawrence High School","Male","Physical fight ",1,0.1
+"Lawrence","Lawrence High School","Hispanic/Latino","All Offenses",5,0.2
+"Lawrence","Lawrence High School","Hispanic/Latino","Illegal substances",1,0
+"Lawrence","Lawrence High School","Hispanic/Latino","Physical attack (battery)",4,0.1
+"Lawrence","Lawrence High School","Hispanic/Latino","Physical fight ",1,0
+"Lowell","Lowell High","All Students","All Offenses",1,0
+"Lowell","Lowell High","All Students","Physical attack (battery)",1,0
+"Lowell","Lowell High","Low income","All Offenses",1,0
+"Lowell","Lowell High","Low income","Physical attack (battery)",1,0
+"Lowell","Lowell High","High needs","All Offenses",1,0
+"Lowell","Lowell High","High needs","Physical attack (battery)",1,0
+"Lowell","Lowell High","Female","All Offenses",1,0.1
+"Lowell","Lowell High","Female","Physical attack (battery)",1,0.1
+"Lowell","Lowell High","Hispanic/Latino","All Offenses",1,0.1
+"Lowell","Lowell High","Hispanic/Latino","Physical attack (battery)",1,0.1
+"Lynn","Classical High","All Students","All Offenses",10,0.5
+"Lynn","Classical High","All Students","Other violence or substance-related offense",3,0.1
+"Lynn","Classical High","All Students","Physical attack (battery)",7,0.3
+"Lynn","Classical High","All Students","Physical fight ",3,0.1
+"Lynn","Classical High","All Students","Weapon on school premises",3,0.1
+"Lynn","Classical High","English Learner","All Offenses",2,0.3
+"Lynn","Classical High","Low income","All Offenses",9,0.6
+"Lynn","Classical High","Low income","Other violence or substance-related offense",3,0.2
+"Lynn","Classical High","Low income","Physical attack (battery)",6,0.4
+"Lynn","Classical High","Low income","Physical fight ",3,0.2
+"Lynn","Classical High","Low income","Weapon on school premises",3,0.2
+"Lynn","Classical High","Students w/disabilities","All Offenses",3,1
+"Lynn","Classical High","Students w/disabilities","Other violence or substance-related offense",1,0.3
+"Lynn","Classical High","Students w/disabilities","Physical attack (battery)",2,0.7
+"Lynn","Classical High","High needs","All Offenses",10,0.6
+"Lynn","Classical High","High needs","Other violence or substance-related offense",3,0.2
+"Lynn","Classical High","High needs","Physical attack (battery)",7,0.4
+"Lynn","Classical High","High needs","Physical fight ",3,0.2
+"Lynn","Classical High","High needs","Weapon on school premises",3,0.2
+"Lynn","Classical High","Female","All Offenses",2,0.2
+"Lynn","Classical High","Female","Physical fight ",2,0.2
+"Lynn","Classical High","Male","All Offenses",8,0.7
+"Lynn","Classical High","Male","Other violence or substance-related offense",3,0.3
+"Lynn","Classical High","Male","Physical attack (battery)",5,0.5
+"Lynn","Classical High","Male","Physical fight ",1,0.1
+"Lynn","Classical High","Male","Weapon on school premises",3,0.3
+"Lynn","Classical High","Afr. Amer./Black","All Offenses",1,0.7
+"Lynn","Classical High","Hispanic/Latino","All Offenses",9,0.7
+"Lynn","Classical High","Hispanic/Latino","Other violence or substance-related offense",3,0.2
+"Lynn","Classical High","Hispanic/Latino","Physical attack (battery)",7,0.5
+"Lynn","Classical High","Hispanic/Latino","Physical fight ",3,0.2
+"Lynn","Lynn English High","All Students","All Offenses",1,0
+"Lynn","Lynn English High","All Students","Illegal substances",1,0
+"Lynn","Lynn English High","All Students","Other violence or substance-related offense",1,0
+"Lynn","Lynn English High","All Students","Weapon on school premises",1,0
+"Lynn","Lynn English High","Low income","All Offenses",1,0.1
+"Lynn","Lynn English High","Low income","Illegal substances",1,0.1
+"Lynn","Lynn English High","Low income","Other violence or substance-related offense",1,0.1
+"Lynn","Lynn English High","Students w/disabilities","All Offenses",1,0.4
+"Lynn","Lynn English High","High needs","All Offenses",1,0
+"Lynn","Lynn English High","High needs","Illegal substances",1,0
+"Lynn","Lynn English High","High needs","Other violence or substance-related offense",1,0
+"Lynn","Lynn English High","High needs","Weapon on school premises",1,0
+"Lynn","Lynn English High","Male","All Offenses",1,0.1
+"Lynn","Lynn English High","Male","Illegal substances",1,0.1
+"Lynn","Lynn English High","Male","Other violence or substance-related offense",1,0.1
+"Lynn","Lynn English High","Male","Weapon on school premises",1,0.1
+"Lynn","Lynn English High","Hispanic/Latino","All Offenses",1,0.1
+"Lynn","Lynn English High","Hispanic/Latino","Illegal substances",1,0.1
+"Lynn","Lynn English High","Hispanic/Latino","Other violence or substance-related offense",1,0.1
+"Lynn","Lynn English High","Hispanic/Latino","Weapon on school premises",1,0.1
+"Lynn","Fecteau-Leary Junior/Senior High School","All Students","All Offenses",1,0.8
+"Lynn","Fecteau-Leary Junior/Senior High School","Low income","All Offenses",1,0.9
+"Lynn","Fecteau-Leary Junior/Senior High School","High needs","All Offenses",1,0.9
+"Lynn","Fecteau-Leary Junior/Senior High School","Male","All Offenses",1,1.3
+"Malden","Malden High","All Students","All Offenses",1,0.1
+"Malden","Malden High","All Students","Physical fight ",1,0.1
+"Malden","Malden High","All Students","Weapon on school premises",1,0.1
+"Malden","Malden High","Low income","All Offenses",1,0.1
+"Malden","Malden High","Low income","Physical fight ",1,0.1
+"Malden","Malden High","Low income","Weapon on school premises",1,0.1
+"Malden","Malden High","High needs","All Offenses",1,0.1
+"Malden","Malden High","High needs","Physical fight ",1,0.1
+"Malden","Malden High","High needs","Weapon on school premises",1,0.1
+"Malden","Malden High","Male","All Offenses",1,0.1
+"Malden","Malden High","Male","Physical fight ",1,0.1
+"Malden","Malden High","Male","Weapon on school premises",1,0.1
+"Malden","Malden High","Afr. Amer./Black","All Offenses",1,0.2
+"Malden","Malden High","Afr. Amer./Black","Physical fight ",1,0.2
+"Mashpee","Mashpee Middle School","All Students","All Offenses",1,0.4
+"Mashpee","Mashpee Middle School","Low income","All Offenses",1,0.9
+"Mashpee","Mashpee Middle School","Students w/disabilities","All Offenses",1,3.1
+"Mashpee","Mashpee Middle School","High needs","All Offenses",1,0.8
+"Methuen","Methuen High","All Students","All Offenses",1,0.1
+"Methuen","Methuen High","All Students","Physical attack (battery)",1,0.1
+"Methuen","Methuen High","Low income","All Offenses",1,0.1
+"Methuen","Methuen High","Low income","Physical attack (battery)",1,0.1
+"Methuen","Methuen High","Students w/disabilities","All Offenses",1,0.4
+"Methuen","Methuen High","Students w/disabilities","Physical attack (battery)",1,0.4
+"Methuen","Methuen High","High needs","All Offenses",1,0.1
+"Methuen","Methuen High","High needs","Physical attack (battery)",1,0.1
+"Methuen","Methuen High","Male","All Offenses",1,0.1
+"Methuen","Methuen High","Male","Physical attack (battery)",1,0.1
+"Methuen","Methuen High","Hispanic/Latino","All Offenses",1,0.1
+"Methuen","Methuen High","Hispanic/Latino","Physical attack (battery)",1,0.1
+"Monson","Monson High School","All Students","All Offenses",1,0.3
+"Monson","Monson High School","White","All Offenses",1,0.3
+"New Bedford","New Bedford High","All Students","All Offenses",1,0
+"New Bedford","New Bedford High","All Students","Physical fight ",1,0
+"New Bedford","New Bedford High","Low income","All Offenses",1,0
+"New Bedford","New Bedford High","Low income","Physical fight ",1,0
+"New Bedford","New Bedford High","High needs","All Offenses",1,0
+"New Bedford","New Bedford High","High needs","Physical fight ",1,0
+"New Bedford","New Bedford High","Female","All Offenses",1,0.1
+"New Bedford","New Bedford High","Female","Physical fight ",1,0.1
+"New Bedford","New Bedford High","Hispanic/Latino","All Offenses",1,0.1
+"New Bedford","New Bedford High","Hispanic/Latino","Physical fight ",1,0.1
+"North Andover","North Andover High","All Students","All Offenses",1,0.1
+"North Andover","North Andover High","Low income","All Offenses",1,0.3
+"North Andover","North Andover High","Students w/disabilities","All Offenses",1,0.5
+"North Andover","North Andover High","High needs","All Offenses",1,0.2
+"North Andover","North Andover High","Male","All Offenses",1,0.1
+"Pittsfield","Taconic High","All Students","All Offenses",1,0.1
+"Pittsfield","Taconic High","Low income","All Offenses",1,0.2
+"Pittsfield","Taconic High","High needs","All Offenses",1,0.2
+"Pittsfield","Taconic High","Male","All Offenses",1,0.2
+"Pittsfield","Taconic High","Multi-race, Non-Hisp./Lat.","All Offenses",1,1.4
+"Quincy","Quincy High","All Students","All Offenses",1,0.1
+"Quincy","Quincy High","Low income","All Offenses",1,0.1
+"Quincy","Quincy High","High needs","All Offenses",1,0.1
+"Quincy","Quincy High","Male","All Offenses",1,0.1
+"Quincy","Quincy High","White","All Offenses",1,0.1
+"Randolph","Randolph High","All Students","All Offenses",1,0.2
+"Randolph","Randolph High","Low income","All Offenses",1,0.2
+"Randolph","Randolph High","High needs","All Offenses",1,0.2
+"Randolph","Randolph High","Male","All Offenses",1,0.3
+"Randolph","Randolph High","Afr. Amer./Black","All Offenses",1,0.3
+"Seekonk","Seekonk High","All Students","All Offenses",1,0.2
+"Seekonk","Seekonk High","Male","All Offenses",1,0.3
+"Sharon","Sharon Middle","All Students","All Offenses",1,0.1
+"Sharon","Sharon Middle","All Students","Threat of physical attack",1,0.1
+"Sharon","Sharon Middle","Male","All Offenses",1,0.2
+"Sharon","Sharon Middle","Male","Threat of physical attack",1,0.2
+"Sharon","Sharon Middle","White","All Offenses",1,0.2
+"Sharon","Sharon High","All Students","All Offenses",2,0.2
+"Sharon","Sharon High","Low income","All Offenses",1,0.5
+"Sharon","Sharon High","High needs","All Offenses",1,0.3
+"Sharon","Sharon High","Male","All Offenses",1,0.2
+"Sharon","Sharon High","White","All Offenses",1,0.2
+"Southbridge","Southbridge High School","All Students","All Offenses",6,1.2
+"Southbridge","Southbridge High School","All Students","Illegal substances",1,0.2
+"Southbridge","Southbridge High School","All Students","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Southbridge","Southbridge High School","All Students","Physical fight ",4,0.8
+"Southbridge","Southbridge High School","English Learner","All Offenses",5,4.6
+"Southbridge","Southbridge High School","English Learner","Non-drug, non-violent or non-criminal-related offense",1,0.9
+"Southbridge","Southbridge High School","English Learner","Physical fight ",4,3.7
+"Southbridge","Southbridge High School","Low income","All Offenses",6,1.5
+"Southbridge","Southbridge High School","Low income","Illegal substances",1,0.2
+"Southbridge","Southbridge High School","Low income","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Southbridge","Southbridge High School","Low income","Physical fight ",4,1
+"Southbridge","Southbridge High School","Students w/disabilities","All Offenses",3,2.9
+"Southbridge","Southbridge High School","Students w/disabilities","Non-drug, non-violent or non-criminal-related offense",1,1
+"Southbridge","Southbridge High School","High needs","All Offenses",6,1.4
+"Southbridge","Southbridge High School","High needs","Illegal substances",1,0.2
+"Southbridge","Southbridge High School","High needs","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Southbridge","Southbridge High School","High needs","Physical fight ",4,0.9
+"Southbridge","Southbridge High School","Female","All Offenses",5,2.2
+"Southbridge","Southbridge High School","Female","Illegal substances",1,0.4
+"Southbridge","Southbridge High School","Female","Physical fight ",4,1.7
+"Southbridge","Southbridge High School","Male","All Offenses",1,0.4
+"Southbridge","Southbridge High School","Male","Non-drug, non-violent or non-criminal-related offense",1,0.4
+"Southbridge","Southbridge High School","Hispanic/Latino","All Offenses",6,1.9
+"Southbridge","Southbridge High School","Hispanic/Latino","Illegal substances",1,0.3
+"Southbridge","Southbridge High School","Hispanic/Latino","Non-drug, non-violent or non-criminal-related offense",1,0.3
+"Southbridge","Southbridge High School","Hispanic/Latino","Physical fight ",4,1.2
+"Springfield","Lyceum Academy","All Students","All Offenses",3,0.7
+"Springfield","Lyceum Academy","All Students","Other violence or substance-related offense",1,0.2
+"Springfield","Lyceum Academy","All Students","Physical fight ",2,0.5
+"Springfield","Lyceum Academy","Low income","All Offenses",3,0.7
+"Springfield","Lyceum Academy","Low income","Other violence or substance-related offense",1,0.2
+"Springfield","Lyceum Academy","Low income","Physical fight ",2,0.5
+"Springfield","Lyceum Academy","Students w/disabilities","All Offenses",2,1.5
+"Springfield","Lyceum Academy","Students w/disabilities","Other violence or substance-related offense",1,0.7
+"Springfield","Lyceum Academy","Students w/disabilities","Physical fight ",1,0.7
+"Springfield","Lyceum Academy","High needs","All Offenses",3,0.7
+"Springfield","Lyceum Academy","High needs","Other violence or substance-related offense",1,0.2
+"Springfield","Lyceum Academy","High needs","Physical fight ",2,0.5
+"Springfield","Lyceum Academy","Female","All Offenses",1,0.5
+"Springfield","Lyceum Academy","Male","All Offenses",2,0.8
+"Springfield","Lyceum Academy","Male","Physical fight ",2,0.8
+"Springfield","Lyceum Academy","Afr. Amer./Black","All Offenses",1,2
+"Springfield","Lyceum Academy","Afr. Amer./Black","Other violence or substance-related offense",1,2
+"Springfield","Lyceum Academy","Hispanic/Latino","All Offenses",2,0.5
+"Springfield","Lyceum Academy","Hispanic/Latino","Physical fight ",2,0.5
+"Springfield","Springfield Public Day Middle School","All Students","All Offenses",1,1.8
+"Springfield","Springfield Public Day Middle School","Low income","All Offenses",1,1.9
+"Springfield","Springfield Public Day Middle School","Students w/disabilities","All Offenses",1,1.8
+"Springfield","Springfield Public Day Middle School","High needs","All Offenses",1,1.8
+"Springfield","Springfield Public Day Middle School","Male","All Offenses",1,2.3
+"Springfield","Springfield Middle School","All Students","All Offenses",3,8.1
+"Springfield","Springfield Middle School","Low income","All Offenses",3,8.3
+"Springfield","Springfield Middle School","High needs","All Offenses",3,8.1
+"Springfield","Springfield Middle School","Male","All Offenses",3,10.7
+"Springfield","Impact Prep at Chestnut","All Students","All Offenses",1,0.4
+"Springfield","Impact Prep at Chestnut","All Students","Threat of physical attack",1,0.4
+"Springfield","Impact Prep at Chestnut","Low income","All Offenses",1,0.4
+"Springfield","Impact Prep at Chestnut","Low income","Threat of physical attack",1,0.4
+"Springfield","Impact Prep at Chestnut","Students w/disabilities","All Offenses",1,1.4
+"Springfield","Impact Prep at Chestnut","Students w/disabilities","Threat of physical attack",1,1.4
+"Springfield","Impact Prep at Chestnut","High needs","All Offenses",1,0.4
+"Springfield","Impact Prep at Chestnut","High needs","Threat of physical attack",1,0.4
+"Springfield","Impact Prep at Chestnut","Male","All Offenses",1,0.8
+"Springfield","Impact Prep at Chestnut","Hispanic/Latino","All Offenses",1,0.5
+"Springfield","Impact Prep at Chestnut","Hispanic/Latino","Threat of physical attack",1,0.5
+"Springfield","High School Of Commerce","All Students","All Offenses",2,0.1
+"Springfield","High School Of Commerce","All Students","Physical attack (battery)",2,0.1
+"Springfield","High School Of Commerce","English Learner","All Offenses",2,0.8
+"Springfield","High School Of Commerce","Low income","All Offenses",2,0.2
+"Springfield","High School Of Commerce","Low income","Physical attack (battery)",2,0.2
+"Springfield","High School Of Commerce","High needs","All Offenses",2,0.2
+"Springfield","High School Of Commerce","High needs","Physical attack (battery)",2,0.2
+"Springfield","High School Of Commerce","Male","All Offenses",2,0.3
+"Springfield","High School Of Commerce","Male","Physical attack (battery)",2,0.3
+"Springfield","High School Of Commerce","Hispanic/Latino","All Offenses",2,0.2
+"Springfield","High School Of Commerce","Hispanic/Latino","Physical attack (battery)",2,0.2
+"Springfield","Springfield Public Day High School","All Students","All Offenses",5,5.7
+"Springfield","Springfield Public Day High School","Low income","All Offenses",5,6
+"Springfield","Springfield Public Day High School","Students w/disabilities","All Offenses",5,5.7
+"Springfield","Springfield Public Day High School","High needs","All Offenses",5,5.7
+"Springfield","Springfield Public Day High School","Hispanic/Latino","All Offenses",1,1.9
+"Stoughton","Stoughton High","All Students","All Offenses",1,0.1
+"Stoughton","Stoughton High","All Students","Physical attack (battery)",1,0.1
+"Stoughton","Stoughton High","Low income","All Offenses",1,0.2
+"Stoughton","Stoughton High","Low income","Physical attack (battery)",1,0.2
+"Stoughton","Stoughton High","Students w/disabilities","All Offenses",1,0.6
+"Stoughton","Stoughton High","Students w/disabilities","Physical attack (battery)",1,0.6
+"Stoughton","Stoughton High","High needs","All Offenses",1,0.2
+"Stoughton","Stoughton High","High needs","Physical attack (battery)",1,0.2
+"Stoughton","Stoughton High","Male","All Offenses",1,0.2
+"Stoughton","Stoughton High","Male","Physical attack (battery)",1,0.2
+"Tewksbury","Tewksbury Memorial High","All Students","All Offenses",1,0.1
+"Tewksbury","Tewksbury Memorial High","All Students","Other violence or substance-related offense",1,0.1
+"Tewksbury","Tewksbury Memorial High","Low income","All Offenses",1,0.5
+"Tewksbury","Tewksbury Memorial High","Low income","Other violence or substance-related offense",1,0.5
+"Tewksbury","Tewksbury Memorial High","High needs","All Offenses",1,0.4
+"Tewksbury","Tewksbury Memorial High","High needs","Other violence or substance-related offense",1,0.4
+"Tewksbury","Tewksbury Memorial High","Male","All Offenses",1,0.3
+"Tewksbury","Tewksbury Memorial High","Male","Other violence or substance-related offense",1,0.3
+"Tewksbury","Tewksbury Memorial High","White","All Offenses",1,0.2
+"Tewksbury","Tewksbury Memorial High","White","Other violence or substance-related offense",1,0.2
+"Webster","Bartlett High School","All Students","All Offenses",1,0.2
+"Webster","Bartlett High School","All Students","Threat of physical attack",1,0.2
+"Webster","Bartlett High School","Low income","All Offenses",1,0.3
+"Webster","Bartlett High School","Students w/disabilities","All Offenses",1,1.2
+"Webster","Bartlett High School","High needs","All Offenses",1,0.3
+"Webster","Bartlett High School","Male","All Offenses",1,0.5
+"Webster","Bartlett High School","Hispanic/Latino","All Offenses",1,0.6
+"West Springfield","West Springfield Middle","All Students","All Offenses",1,0.1
+"West Springfield","West Springfield Middle","All Students","Physical attack (battery)",1,0.1
+"West Springfield","West Springfield Middle","Low income","All Offenses",1,0.2
+"West Springfield","West Springfield Middle","Low income","Physical attack (battery)",1,0.2
+"West Springfield","West Springfield Middle","High needs","All Offenses",1,0.2
+"West Springfield","West Springfield Middle","High needs","Physical attack (battery)",1,0.2
+"West Springfield","West Springfield Middle","Female","All Offenses",1,0.2
+"Worcester","North High","All Students","All Offenses",1,0.1
+"Worcester","North High","All Students","Physical attack (battery)",1,0.1
+"Worcester","North High","Low income","All Offenses",1,0.1
+"Worcester","North High","Low income","Physical attack (battery)",1,0.1
+"Worcester","North High","Students w/disabilities","All Offenses",1,0.3
+"Worcester","North High","Students w/disabilities","Physical attack (battery)",1,0.3
+"Worcester","North High","High needs","All Offenses",1,0.1
+"Worcester","North High","High needs","Physical attack (battery)",1,0.1
+"Worcester","North High","Male","All Offenses",1,0.1
+"Worcester","North High","Male","Physical attack (battery)",1,0.1
+"Worcester","North High","Hispanic/Latino","All Offenses",1,0.1
+"Worcester","North High","Hispanic/Latino","Physical attack (battery)",1,0.1
+"Excel Academy Charter (District)","Excel Academy Charter School","All Students","All Offenses",1,0.1
+"Excel Academy Charter (District)","Excel Academy Charter School","English Learner","All Offenses",1,0.6
+"Excel Academy Charter (District)","Excel Academy Charter School","Low income","All Offenses",1,0.1
+"Excel Academy Charter (District)","Excel Academy Charter School","Students w/disabilities","All Offenses",1,0.4
+"Excel Academy Charter (District)","Excel Academy Charter School","High needs","All Offenses",1,0.1
+"Excel Academy Charter (District)","Excel Academy Charter School","Male","All Offenses",1,0.1
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","All Students","All Offenses",1,0.3
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","All Students","Non-drug, non-violent or non-criminal-related offense",1,0.3
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","All Students","Threat of physical attack",1,0.3
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","Low income","All Offenses",1,0.5
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","Low income","Non-drug, non-violent or non-criminal-related offense",1,0.5
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","Low income","Threat of physical attack",1,0.5
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","High needs","All Offenses",1,0.4
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","High needs","Non-drug, non-violent or non-criminal-related offense",1,0.4
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","High needs","Threat of physical attack",1,0.4
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","Male","All Offenses",1,0.5
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","Male","Non-drug, non-violent or non-criminal-related offense",1,0.5
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","Male","Threat of physical attack",1,0.5
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","Hispanic/Latino","All Offenses",1,1.1
+"Sizer School: A North Central Charter Essential (District)","Sizer School: A North Central Charter Essential School","Hispanic/Latino","Non-drug, non-violent or non-criminal-related offense",1,1.1
+"Prospect Hill Academy Charter (District)","Prospect Hill Academy Charter School","All Students","All Offenses",1,0.1
+"Prospect Hill Academy Charter (District)","Prospect Hill Academy Charter School","Low income","All Offenses",1,0.1
+"Prospect Hill Academy Charter (District)","Prospect Hill Academy Charter School","Students w/disabilities","All Offenses",1,0.6
+"Prospect Hill Academy Charter (District)","Prospect Hill Academy Charter School","High needs","All Offenses",1,0.1
+"Prospect Hill Academy Charter (District)","Prospect Hill Academy Charter School","Male","All Offenses",1,0.2
+"Prospect Hill Academy Charter (District)","Prospect Hill Academy Charter School","Afr. Amer./Black","All Offenses",1,0.2
+"Phoenix Charter Academy (District)","Phoenix Charter Academy","All Students","All Offenses",1,0.4
+"Phoenix Charter Academy (District)","Phoenix Charter Academy","Male","All Offenses",1,0.8
+"Berkshire Hills","Monument Mt Regional High","All Students","All Offenses",1,0.2
+"Berkshire Hills","Monument Mt Regional High","Low income","All Offenses",1,0.5
+"Berkshire Hills","Monument Mt Regional High","High needs","All Offenses",1,0.4
+"Berkshire Hills","Monument Mt Regional High","Male","All Offenses",1,0.4
+"Berkshire Hills","Monument Mt Regional High","White","All Offenses",1,0.2
+"Blackstone-Millville","Frederick W. Hartnett Middle School","All Students","All Offenses",1,0.2
+"Blackstone-Millville","Frederick W. Hartnett Middle School","All Students","Threat of physical attack",1,0.2
+"Blackstone-Millville","Frederick W. Hartnett Middle School","Low income","All Offenses",1,0.6
+"Blackstone-Millville","Frederick W. Hartnett Middle School","Low income","Threat of physical attack",1,0.6
+"Blackstone-Millville","Frederick W. Hartnett Middle School","Students w/disabilities","All Offenses",1,1.2
+"Blackstone-Millville","Frederick W. Hartnett Middle School","High needs","All Offenses",1,0.5
+"Blackstone-Millville","Frederick W. Hartnett Middle School","High needs","Threat of physical attack",1,0.5
+"Blackstone-Millville","Frederick W. Hartnett Middle School","Female","All Offenses",1,0.6
+"Blackstone-Millville","Frederick W. Hartnett Middle School","Hispanic/Latino","All Offenses",1,2.6
+"Martha's Vineyard","Martha's Vineyard Regional High","All Students","All Offenses",1,0.1
+"Martha's Vineyard","Martha's Vineyard Regional High","Low income","All Offenses",1,0.3
+"Martha's Vineyard","Martha's Vineyard Regional High","Students w/disabilities","All Offenses",1,0.7
+"Martha's Vineyard","Martha's Vineyard Regional High","High needs","All Offenses",1,0.2
+"Martha's Vineyard","Martha's Vineyard Regional High","Male","All Offenses",1,0.2
+"Martha's Vineyard","Martha's Vineyard Regional High","White","All Offenses",1,0.2
+"Ralph C Mahar","Ralph C Mahar Regional","All Students","All Offenses",1,0.2
+"Ralph C Mahar","Ralph C Mahar Regional","All Students","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Ralph C Mahar","Ralph C Mahar Regional","All Students","Physical attack (battery)",1,0.2
+"Ralph C Mahar","Ralph C Mahar Regional","Female","All Offenses",1,0.4
+"Ralph C Mahar","Ralph C Mahar Regional","Female","Non-drug, non-violent or non-criminal-related offense",1,0.4
+"Ralph C Mahar","Ralph C Mahar Regional","White","All Offenses",1,0.2
+"Ralph C Mahar","Ralph C Mahar Regional","White","Non-drug, non-violent or non-criminal-related offense",1,0.2
+"Ralph C Mahar","Ralph C Mahar Regional","White","Physical attack (battery)",1,0.2
+"Wachusett","Wachusett Regional High","All Students","All Offenses",1,0
+"Wachusett","Wachusett Regional High","All Students","Physical attack (battery)",1,0
+"Wachusett","Wachusett Regional High","Low income","All Offenses",1,0.3
+"Wachusett","Wachusett Regional High","High needs","All Offenses",1,0.2
+"Wachusett","Wachusett Regional High","High needs","Physical attack (battery)",1,0.2
+"Wachusett","Wachusett Regional High","Female","All Offenses",1,0.1
+"Wachusett","Wachusett Regional High","White","All Offenses",1,0.1
+"Wachusett","Wachusett Regional High","White","Physical attack (battery)",1,0.1
+"Shawsheen Valley Regional Vocational Technical","Shawsheen Valley Vocational Technical High School","All Students","All Offenses",2,0.2
+"Shawsheen Valley Regional Vocational Technical","Shawsheen Valley Vocational Technical High School","All Students","Other violence or substance-related offense",2,0.2
+"Shawsheen Valley Regional Vocational Technical","Shawsheen Valley Vocational Technical High School","Male","All Offenses",2,0.2
+"Shawsheen Valley Regional Vocational Technical","Shawsheen Valley Vocational Technical High School","Male","Other violence or substance-related offense",2,0.2
+"Shawsheen Valley Regional Vocational Technical","Shawsheen Valley Vocational Technical High School","White","All Offenses",2,0.2
+"Shawsheen Valley Regional Vocational Technical","Shawsheen Valley Vocational Technical High School","White","Other violence or substance-related offense",2,0.2
