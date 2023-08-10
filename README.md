@@ -1,42 +1,40 @@
  <!-- GETTING STARTED -->
-## About the Evictions in MA project
+## About the School Discipline in MA project
 
 <h1>What I aimed to accomplish:</h1>
 
-<p>I wanted to see whether evictions are on the rise in Massachusetts. I also wanted to learn how to scrape from Tableau visualizations in cases where it's otherwise not possible to download the data. </p>
+<p>I wanted to see whether school districts are reporting arrests of students as required under Massachusetts state law. I also wanted to learn how to use R to join datasets, clean data and analyze large amounts of data. </p>
 
 <br>
 <br>
 <h1>Short description of your findings</h1>
-<p> I found that evictions have spiked in MA this year. Hard-hit communities include Fall River, Holyoke, Springfield, Pittsfield and New Bedford, where evictions and money order judgments are disproptionately high. </p>
+<p> I found that just one in 10 school districts and charter schools in Massachusetts reported arrests in the 2011-2022 school year. I reached out to several school districts and heard back from Lowell -- which had 6 arrests that school year, but only reported one arrest. </p>
 
 <br>
 <br>
 <h1>Summary of the data collection process, with links</h1>
-<p> I used <a href="https://github.com/bertrandmartel/tableau-scraping">a wonderful Tableau scraping tool created by Bertrandmartel to download .CSV files from Tableau visualizations maintained by the Massachusetts state trial court system. The trial court system has refused to simply allow the public to download data from its public Tableau visualization. I have requested the data but have only received partial data for another visualization. The state trial court system has correctly stated that the judiciary is exempt from the public records access law. </a> </p>
+<p> I used R to analyze data maintained by the Massachusetts Department of Education.  </a> </p>
 <p> I used the following data sets for the state of Massachusetts:</p>
 
-<p><a href="https://public.tableau.com/shared/4RPS78R3R?:display_count=n&:origin=viz_share_link">2020-2023 eviction orders</a></p>
+<p><a href="https://www.doe.mass.edu/infoservices/data/ssdr/default.html">School Safety and Discipline Report </a></p>
 
-<p><a href="https://public.tableau.com/shared/8S6Q53TYD?:display_count=n&:origin=viz_share_link">by location eviction orders since 2020</a></p>
-
-<p><a href="https://public.tableau.com/shared/F8Q5B97KS?:display_count=n&:origin=viz_share_link">#by location eviction orders since 2022</a></p>
+<p> I contacted the state to learn how to download data for the 2021-2022 school year - a needed step because the public-facing website database only has percentages and not numerators for statistics like the number of school-based arrests. </p>
 
 <br>
 <br>
 <h1>Overview of the data analysis process</h1>
-<p>I used Tableauscraper and for loops to go through the data, get worksheet names and then save the .csv files to a folder. I then analyzed the data using Excel pivot tables for the simple analysis of finding communities with the biggest counts of eviction orders and money judgments. I added <a href="https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html"> Census population data </a>, cleaned the data and used V Lookup to match communities with populations. I was unable to match every community with population data -- partly because the state data had a breakdown for Boston neighborhoods.
+<p>I learned R to go through the data, clean it, join 2018 and 2022 data for another analysis and create customized data frames so I could create filters. I figured out how to summarize and group by multiple conditions at once and spent a lot of time removing tables and recreating them until I got exactly what I wanted. I learned new techniques to replace NA values and filter out rows based on specific conditions. 
 
 <br>
 <br>
 <h1>A section about what new skills, approaches, etc you used, or where you grew the most during the project</h1>
-<p> I gained new skills in web scrapign and working in Github to find tools created by other users and modifying them to suit my own purposes. I have gained more confidence in how to use for loops to iterate through data and find what I need. I'll be able to use this code to scrap data from other Tableau visualizations. </p>
+<p> I gained new skills in R and working in Github to find tools created by other users and modifying them to suit my own purposes. I have gained much more confidence in R after spending hours on this project, and have ;kkkk </p>
 
 <br>
 <br>
 <h1>A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)</h1>
-<p> I want to use MySQl or R to analyze and clean the data next time. I used Excel because I thought it would be straightforward, but I think I would have saved more time using SQL. I'd like to scrape data from Apartments.com for reporting on the rental market in MA next.
+<p> It took many hours to gain confidence and expertise in R through trial and error. 
 </p>
 
 
-<p>Link to Github project: <a href="https://marinav13.github.io/MyProject/">here</a></p>
+<p>Link to Github project: <a href="https://marinav13.github.io/Project3/">here</a></p>
