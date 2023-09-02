@@ -37,4 +37,4 @@
 </p>
 
 
-<p>Link to Github project: <a href="https://marinav13.github.io/Project3/">here</a></p>
+<p>Link to Github project: <a href="https://reportermarina.github.io/project3-schools/">here</a></p>
